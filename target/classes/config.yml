@@ -1,8 +1,0 @@
-#Podaj tutaj id swojego sklepu
-serverID: ""
-
-#Sformatowana wiadomość dla każdego gracza z topki. {NICK} {KWOTA}
-messageTop: "&a{NICK} &7wydał &2&l{KWOTA} zł"
-
-#Są niestety tylko 3 pozycje bo ivall tak uwzględnił w api placeholdery to:
-#%vishop_top1%, %vishop_top2%, %vishop_top3%
